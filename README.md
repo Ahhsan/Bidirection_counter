@@ -25,3 +25,6 @@ This project implements a **bidirectional people counter** using **Arduino** and
 - **Machine Learning** to improve movement detection accuracy.  
 
 This project provides a **simple yet effective** solution for **automated occupancy monitoring**, ensuring better space utilization and management.
+
+![Image Description](Bidirection_counter/presentation.jpg)
+
