@@ -29,5 +29,13 @@ This project implements a **bidirectional people counter** using **Arduino** and
 
 This project provides a **simple yet effective** solution for **automated occupancy monitoring**, ensuring better space utilization and management.
 
+## **Authors**
+
+[Rudrajit Dutta](https://github.com/Prorudrajit23)
+
+[Ahhsanul hoque](https://github.com/Ahhsan)
+
+[Saatvik Krishna Vias](https://github.com/SaatvikVaish)
+
 
 
