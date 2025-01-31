@@ -14,6 +14,9 @@ This project implements a **bidirectional people counter** using **Arduino** and
 ✅ **Easy Installation**: Simple wiring and integration with Arduino.  
 ✅ **Scalability**: Can be expanded with WiFi/Bluetooth for remote monitoring.  
 
+## **End Product** 
+![image](https://github.com/user-attachments/assets/638a2c55-2a66-4847-9e1a-f163ccb4c9dd)
+
 ## **Applications**
 🔹 **Smart Room Management**: Helps regulate office, classroom, and hall occupancy.  
 🔹 **Security Systems**: Can be integrated with access control.  
